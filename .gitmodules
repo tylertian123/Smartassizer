@@ -1,0 +1,3 @@
+[submodule ".\\ea-thesaurus\\"]
+	path = .\\ea-thesaurus\\
+	url = https://github.com/dariusk/ea-thesaurus.git
